@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\ChatServerWinForms.Form1.resources
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\bin\Debug\GServerCopiamIRC.exe.config
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\bin\Debug\GServerCopiamIRC.exe
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\bin\Debug\GServerCopiamIRC.pdb
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.exe
+C:\Users\Aluno\Documents\GitHub\ServerAndChat\GServerCopiamIRC\GServerCopiamIRC\obj\Debug\GServerCopiamIRC.pdb
