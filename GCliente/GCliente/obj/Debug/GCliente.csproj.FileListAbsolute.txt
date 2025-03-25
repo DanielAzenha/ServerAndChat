@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\bin\Debug\GCliente.exe.config
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\bin\Debug\GCliente.exe
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\bin\Debug\GCliente.pdb
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.Form1.resources
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.exe
+C:\Users\Aluno\Desktop\Daniel_Azenha\GCliente\GCliente\obj\Debug\GCliente.pdb

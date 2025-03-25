@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GServerCopiamIRC.Properties
+namespace GCliente.Properties
 {
 
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("GServerCopiamIRC")]
+[assembly: AssemblyTitle("GCliente")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GServerCopiamIRC")]
+[assembly: AssemblyProduct("GCliente")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("ad970046-5a28-4fd2-8998-b3ff495c5ff1")]
+[assembly: Guid("78bd9606-d8ed-4dca-8e7c-0cdc301bc2f8")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
