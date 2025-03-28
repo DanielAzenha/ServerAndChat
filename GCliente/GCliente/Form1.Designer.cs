@@ -60,7 +60,7 @@
             this.btnConectar.Name = "btnConectar";
             this.btnConectar.Size = new System.Drawing.Size(172, 66);
             this.btnConectar.TabIndex = 2;
-            this.btnConectar.Text = "Conect";
+            this.btnConectar.Text = "Entrar";
             this.btnConectar.UseVisualStyleBackColor = true;
             this.btnConectar.Click += new System.EventHandler(this.btnConectar_Click);
             // 
@@ -102,9 +102,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(455, 71);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(87, 13);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Nome de usuario";
+            this.label1.Text = "Nome";
             // 
             // Form1
             // 

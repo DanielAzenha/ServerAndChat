@@ -34,7 +34,7 @@ namespace GCliente
             {
                 string ip = txtIP.Text.Trim();
                 int port = int.Parse(txtPort.Text.Trim());
-                string username = txtNome.Text.Trim(); // Pega o nome digitado
+                string username = txtNome.Text.Trim(); 
 
                 if (string.IsNullOrEmpty(username))
                 {
@@ -46,13 +46,13 @@ namespace GCliente
                 await client.ConnectAsync(ip, port);
                 stream = client.GetStream();
 
-                // Envia o nome de usuário para o servidor
+               
                 byte[] data = Encoding.UTF8.GetBytes(username);
                 await stream.WriteAsync(data, 0, data.Length);
 
                 AppendMessage($"Conectado como {username}");
 
-                // Inicia a escuta de mensagens do servidor
+              
                 Task.Run(() => ReceberMensagens());
             }
             catch (Exception ex)
@@ -85,7 +85,7 @@ namespace GCliente
         }
 
 
-        // Método auxiliar para atualizar a interface (precisa de Invoke se chamado de outra thread)
+       
         private void AppendMessage(string message)
         {
             if (InvokeRequired)
